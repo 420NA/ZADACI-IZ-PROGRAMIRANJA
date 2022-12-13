@@ -7,5 +7,5 @@ float arsCifr(int a){
 int main(){
     int br;
     scanf("%d",&br);
-    printf("%f", arsCifr(br));
+    printf("%f\n", arsCifr(br));
 }
